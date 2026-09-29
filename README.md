@@ -256,9 +256,9 @@ Projetos de automação utilizando **n8n, APIs, Webhooks e Inteligência Artific
 
 <a href="https://github.com/gustavoguga18">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoguga18&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"/>
+<img height="180em" src="./profile/stats.svg" alt="GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoguga18&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="./profile/top-langs.svg" alt="Top Languages"/>
 
 </a>
 
