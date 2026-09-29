@@ -1,15 +1,20 @@
 <div align="center">
 
-# Gustavo Barbosa
+# 👋 Gustavo Barbosa
 
 ### Analista de Implantação • Infraestrutura • Redes • DevOps • Engenharia de Software
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=2F81F7\&center=true\&vCenter=true\&width=650\&lines=Analista+de+Implanta%C3%A7%C3%A3o;Infraestrutura+%26+Redes;Linux+%26+Docker;Backend+%26+APIs;DevOps+%26+CI%2FCD;Automa%C3%A7%C3%A3o+%26+IA;Engenharia+de+Software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=2F81F7\&center=true\&vCenter=true\&width=700\&lines=Analista+de+Implanta%C3%A7%C3%A3o;Infraestrutura+%26+Redes;Linux+%26+Docker;Backend+%26+APIs;DevOps+%26+CI%2FCD;Automa%C3%A7%C3%A3o+%26+IA;Engenharia+de+Software)](https://git.io/typing-svg)
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Barbosa-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/gustavo-barbosa-ti/)
-[![GitHub](https://img.shields.io/badge/GitHub-gustavoguga18-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/gustavoguga18)
+<a href="https://www.linkedin.com/in/gustavo-barbosa-ti/">
+<img src="https://img.shields.io/badge/LinkedIn-Gustavo%20Barbosa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/gustavoguga18">
+<img src="https://img.shields.io/badge/GitHub-gustavoguga18-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -60,15 +65,17 @@ class Gustavo:
 
 🔧 Atualmente trabalho com **implantação e suporte técnico**, atuando na configuração, integração e troubleshooting de soluções de tecnologia.
 
-🌐 Tenho experiência prática com **redes, infraestrutura, CFTV, sistemas operacionais, equipamentos de rede e integração de sistemas**.
+🌐 Experiência prática com **redes, infraestrutura, CFTV, sistemas operacionais, equipamentos de rede e integração de sistemas**.
 
-🐧 No ambiente de estudos e projetos pessoais, trabalho com **Linux, Docker, bancos de dados, APIs, automação e CI/CD**.
+🐧 Em projetos pessoais e estudos, trabalho com **Linux, Docker, bancos de dados, APIs, automação e CI/CD**.
 
-💻 Também desenvolvo projetos próprios para transformar conhecimentos teóricos em aplicações reais.
+💻 Desenvolvo projetos próprios para transformar conhecimentos teóricos em aplicações reais.
 
-🎓 Estudante de **Engenharia de Software**, buscando evoluir profissionalmente nas áreas de **DevOps, Cloud, Backend e Arquitetura de Software**.
+🎓 Estudante de **Engenharia de Software**.
 
-🤖 Tenho interesse especial em **automação, Inteligência Artificial, observabilidade e integração de sistemas**.
+🌱 Atualmente aprofundando conhecimentos em **DevOps, Cloud, Backend e Arquitetura de Software**.
+
+🤖 Interesse especial em **automação, Inteligência Artificial, observabilidade e integração de sistemas**.
 
 ---
 
@@ -92,6 +99,8 @@ class Gustavo:
 <img src="https://skillicons.dev/icons?i=linux,docker,git,github,nginx" />
 </p>
 
+`CI/CD` • `Zabbix` • `Grafana` • `n8n`
+
 ### 🗄️ Bancos de Dados
 
 <p>
@@ -104,13 +113,15 @@ class Gustavo:
 <img src="https://skillicons.dev/icons?i=aws,docker" />
 </p>
 
-`n8n` • `REST APIs` • `Webhooks` • `CI/CD` • `Zabbix` • `Grafana`
+`REST APIs` • `Webhooks` • `n8n` • `IA` • `Automação`
 
 ### 🌐 Redes & Infraestrutura
 
-`TCP/IP` • `VLAN` • `DHCP` • `DNS` • `FTTH/FTTX` • `CFTV` • `PoE`
+`TCP/IP` • `VLAN` • `DHCP` • `DNS`
 
-`Linux` • `Windows Server` • `Docker` • `Troubleshooting` • `Monitoramento`
+`FTTH/FTTX` • `CFTV` • `PoE`
+
+`Linux` • `Windows` • `Docker` • `Troubleshooting`
 
 ---
 
@@ -118,13 +129,13 @@ class Gustavo:
 
 ## 🎄 Amigo Secreto da Família
 
-Aplicação web desenvolvida para organizar o **amigo secreto da família**, permitindo gerenciamento de participantes, presentes, acesso individual e acompanhamento da interação dos usuários.
+Aplicação web desenvolvida para organizar o **amigo secreto da família**, permitindo gerenciamento de participantes, presentes, acessos e interação dos usuários.
 
-### Tecnologias
+### 🧰 Tecnologias
 
 `Node.js` `Express` `JavaScript` `Supabase` `Render`
 
-### Recursos
+### ✨ Recursos
 
 * 👥 Gerenciamento de participantes
 * 🎁 Cadastro e gerenciamento de presentes
@@ -134,23 +145,23 @@ Aplicação web desenvolvida para organizar o **amigo secreto da família**, per
 * 📱 Interface responsiva
 * ☁️ Deploy em produção
 
-🔗 **[Repositório](https://github.com/gustavoguga18/amigosecret)**
+🔗 **[Ver repositório](https://github.com/gustavoguga18/amigosecret)**
 
 ---
 
 ## 📱 Cadê?
 
-Aplicativo mobile desenvolvido para resolver um problema simples do dia a dia:
+Aplicativo mobile desenvolvido para solucionar um problema simples:
 
 > **"Onde eu guardei isso?"**
 
-O aplicativo permite registrar objetos, localização, detalhes, categoria, observações e fotos.
+Permite registrar objetos, locais, detalhes, categorias, observações e fotos.
 
-### Tecnologias
+### 🧰 Tecnologias
 
 `React` `TypeScript` `Vite` `Capacitor` `Android`
 
-### Recursos
+### ✨ Recursos
 
 * 📦 Cadastro de objetos
 * 📍 Localização onde o objeto foi guardado
@@ -166,11 +177,11 @@ O aplicativo permite registrar objetos, localização, detalhes, categoria, obse
 
 Laboratório de monitoramento desenvolvido para estudar **observabilidade, infraestrutura e monitoramento de serviços**.
 
-### Tecnologias
+### 🧰 Tecnologias
 
 `Zabbix` `Grafana` `Docker` `Linux`
 
-### Objetivos
+### ✨ Objetivos
 
 * 📈 Monitoramento de infraestrutura
 * 🖥️ Monitoramento de hosts
@@ -183,13 +194,13 @@ Laboratório de monitoramento desenvolvido para estudar **observabilidade, infra
 
 ## 🤖 Automação com n8n + IA
 
-Projetos de automação utilizando **n8n, APIs, Webhooks e Inteligência Artificial** para criar fluxos automatizados e integrações entre diferentes serviços.
+Projetos de automação utilizando **n8n, APIs, Webhooks e Inteligência Artificial**.
 
-### Tecnologias
+### 🧰 Tecnologias
 
 `n8n` `REST API` `Webhooks` `IA` `JSON`
 
-### Aplicações
+### ✨ Aplicações
 
 * 🤖 Chatbots
 * 🔄 Automação de processos
@@ -203,38 +214,38 @@ Projetos de automação utilizando **n8n, APIs, Webhooks e Inteligência Artific
 # 📚 Atualmente estudando
 
 ```text
-DevOps
- ├── Linux
- ├── Docker
- ├── CI/CD
- ├── Git & GitHub
- ├── Observabilidade
- └── Containers
+🐳 DevOps
+├── Linux
+├── Docker
+├── CI/CD
+├── Git & GitHub
+├── Observabilidade
+└── Containers
 
-Cloud
- ├── AWS
- ├── Cloud Architecture
- ├── Networking
- └── Infrastructure as Code
+☁️ Cloud
+├── AWS
+├── Cloud Architecture
+├── Networking
+└── Infrastructure as Code
 
-Backend
- ├── Node.js
- ├── APIs REST
- ├── Bancos de dados
- └── Arquitetura de software
+💻 Backend
+├── Node.js
+├── APIs REST
+├── Bancos de dados
+└── Arquitetura de software
 
-Software Engineering
- ├── Clean Code
- ├── SOLID
- ├── Design Patterns
- ├── Arquitetura
- └── Testes
+🏗️ Engenharia de Software
+├── Clean Code
+├── SOLID
+├── Design Patterns
+├── Arquitetura
+└── Testes
 
-Automation & AI
- ├── n8n
- ├── APIs
- ├── LLMs
- └── Agentes de IA
+🤖 Automação & IA
+├── n8n
+├── APIs
+├── LLMs
+└── Agentes de IA
 ```
 
 ---
@@ -243,9 +254,13 @@ Automation & AI
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoguga18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/gustavoguga18">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoguga18&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoguga18&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoguga18&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</a>
 
 </div>
 
@@ -255,17 +270,17 @@ Automation & AI
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=gustavoguga18&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=gustavoguga18&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Atividade
+# 📈 Atividade no GitHub
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavoguga18&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavoguga18&theme=tokyo-night&hide_border=true&area=true&radius=8"/>
 
 </div>
 
@@ -291,26 +306,23 @@ Cloud           → AWS
 # 🎯 Objetivos
 
 ```text
-                    ┌─────────────────────┐
-                    │ Engenharia de       │
-                    │ Software            │
-                    └──────────┬──────────┘
-                               │
-             ┌─────────────────┼─────────────────┐
-             │                 │                 │
-             ▼                 ▼                 ▼
-          Backend            DevOps            Cloud
-             │                 │                 │
-             │                 │                 │
-             └────────────┬────┴────┬────────────┘
-                          │         │
-                          ▼         ▼
-                       CI/CD   Arquitetura
-                          │         │
-                          └────┬────┘
-                               ▼
-                         Sistemas robustos
-                         e escaláveis
+                         Engenharia de Software
+                                  │
+                ┌─────────────────┼─────────────────┐
+                │                 │                 │
+                ▼                 ▼                 ▼
+             Backend            DevOps            Cloud
+                │                 │                 │
+                │                 ▼                 │
+                │                CI/CD              │
+                │                 │                 │
+                └─────────────────┼─────────────────┘
+                                  │
+                                  ▼
+                           Arquitetura de Software
+                                  │
+                                  ▼
+                     Sistemas robustos e escaláveis
 ```
 
 ---
@@ -333,6 +345,6 @@ Cloud           → AWS
 
 <div align="center">
 
-### 💻 "Transformando problemas reais em soluções de tecnologia."
+### 💻 Transformando problemas reais em soluções de tecnologia.
 
 </div>
