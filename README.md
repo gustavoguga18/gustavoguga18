@@ -278,9 +278,32 @@ Projetos de automação utilizando **n8n, APIs, Webhooks e Inteligência Artific
 
 # 📈 Atividade no GitHub
 
+# 📈 Atividade no GitHub
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavoguga18&theme=tokyo-night&hide_border=true&area=true&radius=8"/>
+<img
+  src="https://raw.githubusercontent.com/gustavoguga18/gustavoguga18/activity-assets/activity-365d.svg"
+  alt="Atividade de contribuições do GitHub nos últimos 365 dias"
+/>
+
+<br><br>
+
+<a href="https://raw.githubusercontent.com/gustavoguga18/gustavoguga18/activity-assets/activity-30d.svg">
+  30 dias
+</a>
+
+&nbsp;•&nbsp;
+
+<a href="https://raw.githubusercontent.com/gustavoguga18/gustavoguga18/activity-assets/activity-90d.svg">
+  90 dias
+</a>
+
+&nbsp;•&nbsp;
+
+<a href="https://raw.githubusercontent.com/gustavoguga18/gustavoguga18/activity-assets/activity-365d.svg">
+  365 dias
+</a>
 
 </div>
 
