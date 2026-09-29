@@ -285,24 +285,6 @@ Projetos de automação utilizando **n8n, APIs, Webhooks e Inteligência Artific
   alt="Atividade de contribuições do GitHub nos últimos 365 dias"
 />
 
-<br><br>
-
-<a href="https://raw.githubusercontent.com/gustavoguga18/gustavoguga18/activity-assets/activity-30d.svg">
-  30 dias
-</a>
-
-&nbsp;•&nbsp;
-
-<a href="https://raw.githubusercontent.com/gustavoguga18/gustavoguga18/activity-assets/activity-90d.svg">
-  90 dias
-</a>
-
-&nbsp;•&nbsp;
-
-<a href="https://raw.githubusercontent.com/gustavoguga18/gustavoguga18/activity-assets/activity-365d.svg">
-  365 dias
-</a>
-
 </div>
 
 ---
