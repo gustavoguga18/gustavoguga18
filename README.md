@@ -278,8 +278,6 @@ Projetos de automação utilizando **n8n, APIs, Webhooks e Inteligência Artific
 
 # 📈 Atividade no GitHub
 
-# 📈 Atividade no GitHub
-
 <div align="center">
 
 <img
